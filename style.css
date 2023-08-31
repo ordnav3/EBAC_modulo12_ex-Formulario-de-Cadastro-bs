@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #d5daec;
+}
+
+header{
+    background-color: #bfc7e2;
+    padding: 25px;
+    color: #fff;
+}
+
+.form-group, .alert{
+    margin-top: 10px;
+}
